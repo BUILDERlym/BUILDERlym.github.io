@@ -13,4 +13,5 @@ You can find my CV here: [Yiming Lu’s Curriculum Vitae]((../assets/Curriculum_
 
 News
 ======
-
+* Check out our preprint paper "STRUX: An LLM for Decision-Making with Structured Explanations".
+* Our paper "iSMOD: an integrative browser for image-based single-cell multi-omics data" was accepted by Nucleic Acids Research (NAR), 2023.
