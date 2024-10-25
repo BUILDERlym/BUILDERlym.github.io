@@ -2,7 +2,7 @@
 title: "iSMOD: an integrative browser for image-based single-cell multi-omics data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/iSMOD
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-09-08
 venue: 'Nucleic Acids Research'
