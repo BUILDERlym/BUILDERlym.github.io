@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Emory University, 2023-Present
+  * Advisor: Fei Liu
+* B.E. in Automation, Tsinghua University, 2019-2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Instant NGP and Drone Swarm, Tsinghua BBNC Laboratory (Jan. 2022 - May 2022)
+  * Developed drone system with CUDA-Python, real-time NeRF rendering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* HCA-SCI System Development, Tsinghua BBNC Laboratory (Jan. 2022)
+  * Built dynamic LCoS system achieving 4.6G voxels/s throughput
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Gigapixel Video System, Student Research Project (Apr. 2021 - Jul. 2021)
+  * Implemented super-resolution networks based on CVPR/ICCV papers
+
+Teaching
+======
+* Teaching Assistant, CS 571: Natural Language Processing
+  * Emory University, Spring 2024 & Fall 2024
+
+Awards
+======
+* National Engineering Practice Competition (Nov. 2021)
+  * Excellent Achievement Award, Ministry of Education
+* Hardware Design Competition (Sep. 2020)
+  * Third Prize, School Level Science and Technology Competition
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (PyTorch, Scikit-learn, etc.)
+  * C/C++
+  * LaTex
+  * MATLAB
+* Interests
+  * Piano
+  * Classical Music
+  * Swimming
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
