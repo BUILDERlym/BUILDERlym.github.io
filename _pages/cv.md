@@ -12,43 +12,74 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Emory University, 2023-Present
-  * Advisor: Fei Liu
+  * Advisor: Dr. Fei Liu
+  * GPA: 4.0/4.0
 * B.E. in Automation, Tsinghua University, 2019-2023
+  * GPA: 3.5/4.0
 
-Research experience
+Research Interests
 ======
-* Instant NGP and Drone Swarm, Tsinghua BBNC Laboratory (Jan. 2022 - May 2022)
-  * Developed drone system with CUDA-Python, real-time NeRF rendering
+* Large Language Models
+* Natural Language Processing
+* Reasoning
+* Decision Making
+* Deep Learning
+* Reinforcement Learning
+* Artificial Intelligence
 
-* HCA-SCI System Development, Tsinghua BBNC Laboratory (Jan. 2022)
-  * Built dynamic LCoS system achieving 4.6G voxels/s throughput
-
-* Gigapixel Video System, Student Research Project (Apr. 2021 - Jul. 2021)
-  * Implemented super-resolution networks based on CVPR/ICCV papers
-
-Teaching
+Publications
 ======
-* Teaching Assistant, CS 571: Natural Language Processing
-  * Emory University, Spring 2024 & Fall 2024
+* **STRUX: An LLM for Decision-Making with Structured Explanations**
+  * Yiming Lu, Yebowen Hu, Hassan Foroosh, Wei Jin, Fei Liu
+  * Under Review
+  * [arXiv:2410.12583](https://arxiv.org/pdf/2410.12583)
+  * Project focused on enhancing LLM decision-making through structured explanations, demonstrating superior performance in stock investment decisions based on earnings call transcripts.
 
-Awards
+Research Experience
 ======
-* National Engineering Practice Competition (Nov. 2021)
-  * Excellent Achievement Award, Ministry of Education
-* Hardware Design Competition (Sep. 2020)
-  * Third Prize, School Level Science and Technology Competition
+* **Instant NGP and Neural Scene Reconstruction** (January 2022 - May 2022)
+  * Tsinghua BBNC Laboratory
+  * Developed multi-view data collection system using drone swarm
+  * Implemented CUDA-Python interface for neural graphics primitives
+  * Optimized NeRF rendering pipeline with hash-based encoding
 
-Skills
+* **High-speed Compressive Imaging System** (January 2022)
+  * Tsinghua BBNC Laboratory
+  * Designed HCA-SCI system with dynamic LCoS and lithography mask
+  * Developed cascaded denoising algorithm for PnP-based reconstruction
+  * Achieved 4.6G voxels/s throughput with 10-megapixel resolution
+
+* **Super-resolution Network Development** (April 2021 - July 2021)
+  * Implemented state-of-the-art super-resolution architectures
+  * Conducted systematic literature review on video enhancement
+
+Technical Skills
 ======
-* Programming
-  * Python (PyTorch, Scikit-learn, etc.)
-  * C/C++
-  * LaTex
-  * MATLAB
-* Interests
-  * Piano
-  * Classical Music
-  * Swimming
+* **Programming Languages**
+  * Python, C, C++, LaTeX, MATLAB
+* **Frameworks & Libraries**
+  * PyTorch, LLaMA Factory, TensorFlow, HuggingFace, OpenCV
+  * scikit-learn, NumPy, Pandas, spaCy
+
+Selected Courses
+======
+* Natural Language Processing
+* Machine Learning
+* Operations Research
+* Information Retrieval
+* Pattern Recognition
+* Digital Video Applications
+* Foundation of AI
+* Digital Image Processing
+* Computer Programming
+
+Contact Information
+======
+* Address: 400 Dowman Drive, W302, Atlanta, GA 30322
+* Email: yiming.lu@emory.edu
+* GitHub: [github.com/BUILDERlym](https://github.com/BUILDERlym)
+* Phone: 404-703-9392
+* Website: [YimingLu.github.io](https://YimingLu.github.io)
 
 Publications
 ======
