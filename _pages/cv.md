@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+[Download the pdf version here.](../assets/CV_Yiming.pdf)
+
 Education
 ======
 * Ph.D. in Computer Science, Emory University, 2023-Present
