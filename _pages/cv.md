@@ -15,6 +15,13 @@ Education
 * Ph.D. in Computer Science, Emory University, 2023-Present
   * Advisor: Fei Liu
 * B.E. in Automation, Tsinghua University, 2019-2023
+
+Publications
+======
+* [STRUX: An LLM for Decision-Making with Structured Explanations](https://arxiv.org/pdf/2410.12583)
+* [DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning](https://arxiv.org/pdf/2410.01772)
+* [iSMOD: an integrative browser for image-based single-cell multi-omics data](https://builderlym.github.io/publication/iSMOD)
+
 Research experience
 ======
 * Instant NGP and Drone Swarm, Tsinghua BBNC Laboratory (Jan. 2022 - May 2022)
@@ -23,29 +30,26 @@ Research experience
   * Built dynamic LCoS system achieving 4.6G voxels/s throughput
 * Gigapixel Video System, Student Research Project (Apr. 2021 - Jul. 2021)
   * Implemented super-resolution networks based on CVPR/ICCV papers
+
 Teaching
 ======
 * Teaching Assistant, CS 571: Natural Language Processing
-  * Emory University, Spring 2024 & Fall 2024
+  * Emory University, Spring 2024 & Fall 2024 & spring 2025
+
 Awards
 ======
 * National Engineering Practice Competition (Nov. 2021)
   * Excellent Achievement Award, Ministry of Education
 * Hardware Design Competition (Sep. 2020)
   * Third Prize, School Level Science and Technology Competition
+
 Skills
 ======
 * Programming
-  * Python (PyTorch, Scikit-learn, etc.)
-  * C/C++
-  * LaTex
-  * MATLAB
+  * Python (PyTorch, Scikit-learn, etc.), C/C++, LaTex, MATLAB
 * Interests
-  * Piano
-  * Classical Music
-  * Swimming
-Publications
-======
+  * Piano, Classical Music, Swimming
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
