@@ -18,10 +18,10 @@ Education
 
 Publications
 ======
-* [STRUX: An LLM for Decision-Making with Structured Explanations](https://arxiv.org/pdf/2410.12583)
-* [DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning](https://arxiv.org/pdf/2410.01772)
-* [iSMOD: an integrative browser for image-based single-cell multi-omics data](https://builderlym.github.io/publication/iSMOD)
-
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Research experience
 ======
 * Instant NGP and Drone Swarm, Tsinghua BBNC Laboratory (Jan. 2022 - May 2022)
@@ -49,7 +49,3 @@ Skills
   * Python (PyTorch, Scikit-learn, etc.), C/C++, LaTex, MATLAB
 * Interests
   * Piano, Classical Music, Swimming
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
