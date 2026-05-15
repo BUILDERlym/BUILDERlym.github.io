@@ -8,12 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Download the pdf version here.](../assets/CV_Yiming.pdf)
+[Download the pdf version here.](../assets/CV_Yiming_Emory.pdf)
 
 Education
 ======
 * Ph.D. in Computer Science, Emory University, 2023-Present
-  * Advisor: Fei Liu
+  * Advisor: Dr. Wei Jin, Dr. Fei Liu
 * B.E. in Automation, Tsinghua University, 2019-2023
 
 Publications
@@ -21,20 +21,29 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Research experience
+
+Work Experience
 ======
-* Instant NGP and Drone Swarm, Tsinghua BBNC Laboratory (Jan. 2022 - May 2022)
-  * Developed drone system with CUDA-Python, real-time NeRF rendering
-* HCA-SCI System Development, Tsinghua BBNC Laboratory (Jan. 2022)
-  * Built dynamic LCoS system achieving 4.6G voxels/s throughput
-* Gigapixel Video System, Student Research Project (Apr. 2021 - Jul. 2021)
-  * Implemented super-resolution networks based on CVPR/ICCV papers
+* Research Intern, GenAI, Zoom Video Communications (Jun. 2025 - Aug. 2025)
+  * Bellevue, WA. Topics: Multi-agent, LLM application
+
+Research Presentations
+======
+* Poster, NAACL 2025: STRUX: An LLM for Decision-Making with Structured Explanations
+
+Research Experience
+======
+* Instant NGP and Neural Scene Reconstruction, Tsinghua BBNC Laboratory (Jan. 2022 - May 2022)
+  * Built drone-swarm multi-view capture system for large scenes; achieved real-time NeRF rendering with hash encoding
+* High-speed Compressive Imaging System, Tsinghua BBNC Laboratory (Jan. 2022)
+  * Achieved 4.6G voxels/s throughput at 10MP resolution; designed HCA-SCI system integrating dynamic LCoS and lithography mask
+* Super-resolution Network Development, Student Research Project (Apr. 2021 - Jul. 2021)
+  * Implemented SoTA super-resolution architectures from top conferences; conducted systematic literature review on deep learning approaches for video enhancement
 
 Teaching
 ======
 * Teaching Assistant, CS 571: Natural Language Processing
-  * Emory University, Spring 2024 & Fall 2024 & spring 2025
+  * Emory University, Spring 2024 & Fall 2024 & Spring 2025
 
 Awards
 ======
@@ -46,6 +55,8 @@ Awards
 Skills
 ======
 * Programming
-  * Python (PyTorch, Scikit-learn, etc.), C/C++, LaTex, MATLAB
+  * Python, C, C++, LaTeX, MATLAB
+* Frameworks
+  * PyTorch, LLaMA Factory, TensorFlow, TRL, VeRL, OpenRLHF
 * Interests
   * Piano, Classical Music, Swimming
