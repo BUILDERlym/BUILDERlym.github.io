@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in [CS](https://computerscience.emory.edu/index.html) at [Emory University](https://www.emory.edu/home/index.html), currently advised by [Prof. Wei Jin](https://www.cs.emory.edu/~wjin30/) and previously advised by [Prof. Fei Liu](https://www.cs.emory.edu/~fliu40/index.html). Earlier, I was fortunate to work with [Prof. Jinli Suo](https://www.au.tsinghua.edu.cn/info/1225/2315.htm) in Computational Photography at [Tsinghua University](https://www.tsinghua.edu.cn/en/). My research interests are in the areas of NLP, especially tasks related to LLM reasoning and decision making.
+I am a third-year Ph.D. candidate in [CS](https://computerscience.emory.edu/index.html) at [Emory University](https://www.emory.edu/home/index.html), currently advised by [Prof. Wei Jin](https://www.cs.emory.edu/~wjin30/) and previously advised by [Prof. Fei Liu](https://www.cs.emory.edu/~fliu40/index.html). Earlier, I was fortunate to work with [Prof. Jinli Suo](https://www.au.tsinghua.edu.cn/info/1225/2315.htm) in Computational Photography at [Tsinghua University](https://www.tsinghua.edu.cn/en/). My research interests are in the areas of NLP, especially tasks related to LLM reasoning and decision making.
 
 You can find my CV here: [Yiming Lu’s Curriculum Vitae](../assets/CV_Yiming_Emory.pdf).
 
