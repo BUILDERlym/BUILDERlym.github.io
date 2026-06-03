@@ -13,6 +13,7 @@ You can find my CV here: [Yiming Lu’s Curriculum Vitae](../assets/CV_Yiming_Em
 
 News
 ======
+* [2026.06] Check out our new paper “EpiEvolve: Self-Evolving Agents for Streaming Pandemic Forecasting under Regime Shifts"!
 * [2026.04] Check out our new paper “Large Language Models at Population Scale: A Survey and Taxonomy of Public Health Applications"!
 * [2025.10] Check out our new paper “Communication to Completion: Modeling Collaborative Workflows with Intelligent Multi-Agent Communication"!
 * [2025.06] Started my research internship at Zoom Video Communications (GenAI team) in Bellevue, WA.
