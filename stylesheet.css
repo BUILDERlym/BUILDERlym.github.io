@@ -253,6 +253,14 @@ h2 {
   padding: 2px 0;
 }
 
+/* ---------- Visitor globe ---------- */
+
+/* The MapMyVisitors globe sizes itself to its parent's width. */
+.visitor-globe {
+  width: 190px;
+  margin: 36px auto 0;
+}
+
 /* ---------- Footer ---------- */
 
 footer {
